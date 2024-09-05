@@ -1,0 +1,7 @@
+/* Importing fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+/* Applying font-family to all elements */
+* {
+  font-family: 'Roboto', sans-serif;
+}

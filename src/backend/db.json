@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "555-555-5555"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "555-555-5556"
+    },
+    {
+      "id": "ee75",
+      "name": "Ben Dean",
+      "email": "james@zaio.io",
+      "phone": "0812876017"
+    }
+  ],
+  "bookings": [
+    {
+      "listingId": 1,
+      "startDate": "2024-04-03",
+      "endDate": "2024-05-03",
+      "userId": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": 1,
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 50210,
+      "address": "San Sai Noi",
+      "city": "Chiang Mai",
+      "street": "Cho",
+      "price": 500,
+      "sq_ft": 70,
+      "email": "example@example.com",
+      "userId": "2"
+    }
+  ]
+}
